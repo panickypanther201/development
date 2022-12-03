@@ -1,0 +1,290 @@
+[
+  {
+    "name": "Chainsaw Man",
+    "id": 0,
+    "description": "Following a betrayal, a young man left for the dead is reborn as a powerful devil-human hybrid after merging with his pet devil and is soon enlisted into an organization dedicated to hunting devils.",
+    "episodes": 8,
+    "airing": true,
+    "type": [
+      "Action",
+      "Horror"
+    ],
+    "image": "images/chainsaw_man.jpg"
+  },
+  {
+    "name": "Bleach",
+    "id": 1,
+    "description": "A Japanese teenager with the ability to see ghosts gains a soul reaper's powers and begins his duties as a substitute soul reaper. ",
+    "episodes": 374,
+    "airing": true,
+    "type": [
+      "Action",
+      "Adventure"
+    ],
+    "image": "images/bleach.jpg"
+  },
+  {
+    "name": "Spy x Family",
+    "id": 2,
+    "description": "A spy on an undercover mission gets married and adopts a child as part of his cover. His wife and daughter have secrets of their own, and all three must strive to keep together.",
+    "episodes": 20,
+    "airing": true,
+    "type": [
+      "Action",
+      "Comedy"
+    ],
+    "image": "images/spyxfamily.jpg"
+  },
+  {
+    "name": "Horimiya",
+    "id": 3,
+    "description": "Two very different people - an academically successful schoolgirl and a quiet loser schoolboy - meet and develop a friendship.",
+    "episodes": 13,
+    "airing": false,
+    "type": [
+      "Comedy",
+      "Romance"
+    ],
+    "image": "images/horimiya.jpg"
+  },
+  {
+    "name": "Ranking of Kings",
+    "id": 4,
+    "description": "In a world where all kings are ranked against each other, Prince Bojji is the son of King Bosse, a highly ranked king that has fallen ill. Unlike his father, Bojji is small, physically weak, and deaf.",
+    "episodes": 23,
+    "airing": false,
+    "type": [
+      "Action",
+      "Adventure"
+    ],
+    "image": "images/ranking_of_kings.jpg"
+  },
+  {
+    "name": "Love is War",
+    "id": 5,
+    "description": "Two geniuses develop over the top and clever schemes to try and get the other to confess their love first, because to them, love is war, and the first to confess their feelings loses.",
+    "episodes": 37,
+    "airing": false,
+    "type": [
+      "Comedy",
+      "Romance"
+    ],
+    "image": "images/loveiswar.jpg"
+  },
+  {
+    "name": "Cyberpunk Edgerunners",
+    "id": 6,
+    "description": " Street Kid trying to survive in a technology and body modification-obsessed city of the future. Having everything to lose, he chooses to stay alive by becoming an Edgerunner, a Mercenary outlaw also known as a Cyberpunk.",
+    "episodes": 10,
+    "airing": false,
+    "type": [
+      "Action",
+      "Drama"
+    ],
+    "image": "images/cyberpunk_edgerunners.jpg"
+  },
+  {
+    "name": "Jujutsu Kaisen",
+    "id": 7,
+    "description": "The story follows high school student Yuji Itadori as he joins a secret organization of Jujutsu Sorcerers to eliminate a powerful Curse named Ryomen Sukuna, of whom Yuji becomes the host.",
+    "episodes": 24,
+    "airing": false,
+    "type": [
+      "Action",
+      "Horror"
+    ],
+    "image": "images/jujutsu_kaisen.jpg"
+  },
+  {
+    "name": "Demon Slayer",
+    "id": 8,
+    "description": "Tanjiro sets out to become a demon slayer to avenge his family and cure his sister",
+    "episodes": 44,
+    "airing": false,
+    "type": [
+      "Action",
+      "Horror"
+    ],
+    "image": "images/demon_slayer.jpg"
+  },
+  {
+    "name": "Future Diary",
+    "id": 9,
+    "description": "A young man competes with people around the world for a chance to become the succesor of God, with a diary that is able to tell the future.",
+    "episodes": 26,
+    "airing": false,
+    "type": [
+      "Horror",
+      "Romance"
+    ],
+    "image": "images/future_diary.jpg"
+  },
+  {
+    "name": "Neon Genesis Evangelion",
+    "id": 10,
+    "description": "A teenage boy finds himself recruited as a member of an elite team of pilots by his father.",
+    "episodes": 26,
+    "airing": true,
+    "type": [
+      "Action",
+      "Drama"
+    ],
+    "image": "images/evangelion.jpg"
+  },
+  {
+    "name": "One Piece",
+    "id": 11,
+    "description": "One Piece is the story of Monkey D. Luffy, a young man who has a single dream: To find the legendary treasure known as the One Piece and become the King of the Pirates.",
+    "episodes": 1042,
+    "airing": true,
+    "type": [
+      "Action",
+      "Adventure"
+    ],
+    "image": "images/one_piece.jpg"
+  },
+  {
+    "name": "Code Geass",
+    "id": 12,
+    "description": "After Holy Empire of Britannia attacks and conquers Japan and reduces the once proud nation as an occupied country, Lelouch, an exiled Imperial Prince of Britannia empire, vows to wrestle Japan to its freedom.",
+    "episodes": 50,
+    "airing": false,
+    "type": [
+      "Action",
+      "Drama"
+    ],
+    "image": "images/code_geass.jpg"
+  },
+  {
+    "name": "Durarara!!",
+    "id": 13,
+    "description": "Tired of his mundane life, Mikado Ryugamine decides to move to Ikebukuro, a district in Tokyo, with everything from invisible gangs to rumored beings, a town full of connected mysteries where people's pasts intertwine with the present.",
+    "episodes": 65,
+    "airing": false,
+    "type": [
+      "Action",
+      "Mystery"
+    ],
+    "image": "images/drrr!!.jpg"
+  },
+  {
+    "name": "Steins;Gate",
+    "id": 14,
+    "description": "The story follows follows Rintaro Okabe, who together with his friends accidentally discovers a method of time travel through which they can send text messages to the past, thereby changing the present.",
+    "episodes": 24,
+    "airing": false,
+    "type": [
+      "Drama",
+      "Mystery"
+    ],
+    "image": "images/steins;gate.jpg"
+  },
+  {
+    "name": "Promised Neverland",
+    "id": 15,
+    "description": "At Grace Field House, life couldn’t be better for the orphans! Though they have no parents, together with the other kids and a kind “Mama” who cares for them, they form one big, happy family.",
+    "episodes": 23,
+    "airing": false,
+    "type": [
+      "Drama",
+      "Mystery"
+    ],
+    "image": "images/promised_neverland.jpg"
+  },
+  {
+    "name": "Bocchi the Rock!",
+    "id": 16,
+    "description": "Yearning to make friends and perform live with a band, lonely and socially anxious Hitori \"Bocchi\" Gotou devotes her time to playing the guitar",
+    "episodes": 8,
+    "airing": true,
+    "type": [
+      "Comedy",
+      "Adventure"
+    ],
+    "image": "images/bocchi.jpg"
+  },
+  {
+    "name": "Erased",
+    "id": 17,
+    "description": "29-year-old Satoru Fujinuma is sent back in time 18 years to prevent the events leading to his mother's death, which began with a series of kidnappings while he was in 5th grade",
+    "episodes": 12,
+    "airing": false,
+    "type": [
+      "Drama",
+      "Mystery"
+    ],
+    "image": "images/erased.jpg"
+  },
+  {
+    "name": "Mob Psycho 100",
+    "id": 18,
+    "description": "Ever since he was young, he has had astounding psychic powers. However, this esper power is unable to grant him the one thing he wishes for the most: to be friends with the girl he likes in his class",
+    "episodes": 33,
+    "airing": true,
+    "type": [
+      "Action",
+      "Adventure"
+    ],
+    "image": "images/mob_psycho.jpg"
+  },
+  {
+    "name": "Tokyo Ghoul",
+    "id": 19,
+    "description": "A college student is attacked by a ghoul, a being that feeds on human flesh. He later receives an organ transplant from the ghoul, becoming part monster himself.",
+    "episodes": 24,
+    "airing": false,
+    "type": [
+      "Action",
+      "Horror"
+    ],
+    "image": "images/tokyo_ghoul.jpg"
+  },
+  {
+    "name": "Toradora",
+    "id": 20,
+    "description": "Follow Ryuji, a softhearted guy with a mean face, and Taiga, a short, hot-tempered girl, as they help each other with their respective crushes ",
+    "episodes": 24,
+    "airing": false,
+    "type": [
+      "Comedy",
+      "Romance"
+    ],
+    "image": "images/toradora.jpg"
+  },
+  {
+    "name": "Death Parade",
+    "id": 21,
+    "description": "After death, humans are either reincarnated or sent to the void. Before this happens, they arrive at the Quindecim, a bar attended by the mysterious white-haired Decim, who decides their fate through a game",
+    "episodes": 12,
+    "airing": false,
+    "type": [
+      "Drama",
+      "Mystery"
+    ],
+    "image": "images/death_parade.jpg"
+  },
+  {
+    "name": "Full Metal Alchemist: Brotherhood",
+    "id": 22,
+    "description": "After destroying their bodies in attempt to ressurect their mother with the power of Alchemy, two brothers set out to find a cure",
+    "episodes": 8,
+    "airing": true,
+    "type": [
+      "Action",
+      "Adventure"
+    ],
+    "image": "images/fmab.jpg"
+  },
+  {
+    "name": "Re:Zero",
+    "id": 23,
+    "description": "After being suddenly transported to another world, Subaru Natsuki and his new female partner are brutally murdered. However, Subaru awakens to a familiar scene, meeting the same girl again. The day begins to mysteriously repeat itself.",
+    "episodes": 51,
+    "airing": false,
+    "type": [
+      "Action",
+      "Adventure"
+    ],
+    "image": "images/re_zero.jpg"
+  }
+]
