@@ -1,8 +1,10 @@
 # Development
 
 ### Link to Deployed Website
-https:panickypanther201.github.io/development
 If you used the stencil code, this is `https://<your GitHub username>.github.io/<name of your repository>`
+
+https://panickypanther201.github.io/development
+
 
 ### Goal and Value of the Application
 The goal of this app was to help keep track of anime shows that users were watching and allow them to create list of their favorite ones and filter them genre.
@@ -19,5 +21,5 @@ Oh, I explained this a bit in the previous section, but the data is first contai
 ### How the User Triggers State Changes
 The user triggers state changes by either selecting a sorting type, a filter type, or by liking an anime. Selecting a sort type will rearrange the current showcase of cards and will also affect what is shown on favorites list as well, keeping only those who fall into the selected genre; selecting a genre type will list the anime that fall into that genre; and liking/unliking an anime will add/remove it from the list on the right.
 
-A note. I'm used to using my personal github account for commiting and pushing files, but since this is another account, I ran into some annoying authorization blocking issues when trying to push to my anonymous repository. I ended up just signing in again on the Github desktop, cloning the repository again, and copied files over to this directory. Everything works the same except the open source frameworks aren't showing properly, specifically the buttons and the navbar. So if it looks odd, its because of that. My apologies!
+A note. I'm used to using my personal github account for commiting and pushing files, but since this is another account, I ran into some annoying authorization blocking issues when trying to push to my anonymous repository. I ended up just signing in again on the Github desktop, cloning the repository again, and copied files over to this directory. Everything works the same except the open source frameworks aren't showing properly, specifically the buttons and the navbar. So if it looks odd, its because of that. My apologies! Edit: I got it to work by adding myself as personal collaborator. I removed myself shortly afterwards but just a heads up,  I think you can still see my username in the contributions section. Sorry again for the trouble!
 
